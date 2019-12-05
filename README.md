@@ -22,7 +22,7 @@ The functionality of your Monte Carlo simulator includes the following. The inpu
     
 
 ## Steps to run on EMR and Dataproc:
-- Please follow the link [] for youtube video for this.
+- Please follow the link https://youtu.be/gcqpXtKrGLc for youtube video for this.
 
 ##Analysis
 
